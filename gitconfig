@@ -1,6 +1,6 @@
 [user]
   name = Tomás Wolf
-	email = tomas.wolf.vb@gmail.com
+  email = tomas.wolf.vb@gmail.com
 
 [credential]
   helper = osxkeychain
@@ -65,7 +65,7 @@
   protocol = https
 
 [github]
-  user = imarquezc
+  user = twolfvb
 
 [pager]
   diff = diff-so-fancy | less --tabs=1,5 -RFX

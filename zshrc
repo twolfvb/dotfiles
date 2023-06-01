@@ -55,12 +55,11 @@ HISTFILE=~/.zhistory
 HISTSIZE=100000
 SAVEHIST=100000
 
-# Don't show duplicate history entires
+# Don't show duplicate history entries
 setopt hist_find_no_dups
 
 # Remove unnecessary blanks from history
 setopt hist_reduce_blanks
-
 # Share history between instances
 setopt share_history
 
